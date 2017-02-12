@@ -147,3 +147,7 @@ cscope*
 /*.tar.gz
 
 /.vagrant
+
+*.tlog
+*.log
+*.cache
