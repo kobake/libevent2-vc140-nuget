@@ -1,0 +1,168 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Projects\nuget\libevent2-vc140-nuget\test\regress.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Projects\nuget\libevent2-vc140-nuget\test\regress.gen.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Projects\nuget\libevent2-vc140-nuget\test\regress_buffer.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Projects\nuget\libevent2-vc140-nuget\test\regress_bufferevent.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Projects\nuget\libevent2-vc140-nuget\test\regress_dns.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Projects\nuget\libevent2-vc140-nuget\test\regress_et.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Projects\nuget\libevent2-vc140-nuget\test\regress_finalize.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Projects\nuget\libevent2-vc140-nuget\test\regress_http.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Projects\nuget\libevent2-vc140-nuget\test\regress_listener.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Projects\nuget\libevent2-vc140-nuget\test\regress_main.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Projects\nuget\libevent2-vc140-nuget\test\regress_minheap.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Projects\nuget\libevent2-vc140-nuget\test\regress_rpc.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Projects\nuget\libevent2-vc140-nuget\test\regress_testutils.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Projects\nuget\libevent2-vc140-nuget\test\regress_util.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Projects\nuget\libevent2-vc140-nuget\test\tinytest.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Projects\nuget\libevent2-vc140-nuget\buffer.c">
+      <Filter>Source Core</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Projects\nuget\libevent2-vc140-nuget\bufferevent.c">
+      <Filter>Source Core</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Projects\nuget\libevent2-vc140-nuget\bufferevent_filter.c">
+      <Filter>Source Core</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Projects\nuget\libevent2-vc140-nuget\bufferevent_pair.c">
+      <Filter>Source Core</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Projects\nuget\libevent2-vc140-nuget\bufferevent_ratelim.c">
+      <Filter>Source Core</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Projects\nuget\libevent2-vc140-nuget\bufferevent_sock.c">
+      <Filter>Source Core</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Projects\nuget\libevent2-vc140-nuget\event.c">
+      <Filter>Source Core</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Projects\nuget\libevent2-vc140-nuget\evmap.c">
+      <Filter>Source Core</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Projects\nuget\libevent2-vc140-nuget\evthread.c">
+      <Filter>Source Core</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Projects\nuget\libevent2-vc140-nuget\evutil.c">
+      <Filter>Source Core</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Projects\nuget\libevent2-vc140-nuget\evutil_rand.c">
+      <Filter>Source Core</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Projects\nuget\libevent2-vc140-nuget\evutil_time.c">
+      <Filter>Source Core</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Projects\nuget\libevent2-vc140-nuget\listener.c">
+      <Filter>Source Core</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Projects\nuget\libevent2-vc140-nuget\log.c">
+      <Filter>Source Core</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Projects\nuget\libevent2-vc140-nuget\signal.c">
+      <Filter>Source Core</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Projects\nuget\libevent2-vc140-nuget\strlcpy.c">
+      <Filter>Source Core</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Projects\nuget\libevent2-vc140-nuget\bufferevent_openssl.c">
+      <Filter>Source Core</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Projects\nuget\libevent2-vc140-nuget\evthread_win32.c">
+      <Filter>Source Core</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Projects\nuget\libevent2-vc140-nuget\buffer_iocp.c">
+      <Filter>Source Core</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Projects\nuget\libevent2-vc140-nuget\bufferevent_async.c">
+      <Filter>Source Core</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Projects\nuget\libevent2-vc140-nuget\event_iocp.c">
+      <Filter>Source Core</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Projects\nuget\libevent2-vc140-nuget\win32select.c">
+      <Filter>Source Core</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Projects\nuget\libevent2-vc140-nuget\event_tagging.c">
+      <Filter>Source Extra</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Projects\nuget\libevent2-vc140-nuget\http.c">
+      <Filter>Source Extra</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Projects\nuget\libevent2-vc140-nuget\evdns.c">
+      <Filter>Source Extra</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Projects\nuget\libevent2-vc140-nuget\evrpc.c">
+      <Filter>Source Extra</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Projects\nuget\libevent2-vc140-nuget\test\regress_iocp.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Projects\nuget\libevent2-vc140-nuget\test\regress_thread.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Projects\nuget\libevent2-vc140-nuget\test\regress_ssl.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Projects\nuget\libevent2-vc140-nuget\test\regress.gen.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Projects\nuget\libevent2-vc140-nuget\test\regress_testutils.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Projects\nuget\libevent2-vc140-nuget\CMakeLists.txt" />
+    <CustomBuild Include="C:\Projects\nuget\libevent2-vc140-nuget\CMakeFiles\67bdf442cd0867af90c4fad8917d6f38\regress.gen.c.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{F0D45294-5D6B-39E4-8236-1376A4EF7268}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{6FC3A66B-46CA-31B7-9F76-F660CCED5E3D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{E4FE6342-BFEA-3E3C-834E-74E31C9E0994}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Core">
+      <UniqueIdentifier>{F06CD4B5-7731-3157-A84F-23C3F27062E4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Extra">
+      <UniqueIdentifier>{3764BCE0-513C-36D9-AE6F-01EE09681954}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
